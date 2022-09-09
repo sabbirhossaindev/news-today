@@ -1,0 +1,26 @@
+body{
+    background-color: #86a097;
+}
+
+.author{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.cardd{
+    background-color: rgb(250, 251, 251);
+    padding: 50px 70px;
+    box-shadow: 1px 1px 3px 1px;
+    border-radius: 20px;
+}
+
+#spinner{
+    margin-top: 200px;
+    text-align: center;
+    margin-left: 45%;
+}
+
+.hoverr:hover{
+ color: #f70c53;
+}
